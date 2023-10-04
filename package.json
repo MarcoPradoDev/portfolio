@@ -4,6 +4,9 @@
   "private": true,
   "description": "portfolio",
   "author": "Marco Prado",
+  "engines": {
+    "node": "&gt;=18.0.0"
+  },
   "keywords": [
     "gatsby"
   ],
