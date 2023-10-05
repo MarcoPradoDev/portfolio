@@ -19,14 +19,23 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
+    "@react-three/drei": "^9.86.3",
+    "@react-three/fiber": "^8.14.4",
+    "babel-plugin-styled-components": "^2.1.4",
+    "boxicons": "^2.1.4",
     "gatsby": "^5.12.4",
+    "gatsby-plugin-styled-components": "^6.12.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-slick": "^0.29.0",
+    "slick-carousel": "^1.8.1",
+    "styled-components": "^6.0.8"
   },
   "devDependencies": {
     "@types/node": "^20.3.3",
     "@types/react": "^18.2.14",
     "@types/react-dom": "^18.2.6",
+    "@types/react-slick": "^0.23.10",
     "typescript": "^5.1.6"
   }
 }
